@@ -1,4 +1,3 @@
-
 PShape m_eye;
 PShape m_socket;
 
